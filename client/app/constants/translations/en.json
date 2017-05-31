@@ -1,5 +1,6 @@
 {
   "_language": "English",
   "login_route.password": "Password",
-  "login_route.email": "Email"
+  "login_route.email": "Email",
+  "login_route.forgotten_password": "Forgotten password?"
 }
